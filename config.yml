@@ -50,6 +50,7 @@ params:
           enabled: true
           title: Elisa A. McGhee
           subtitle: "I am a researcher who experiments with ground-based instruments to detect signals in the atmosphere, ocean, and icy environments. My previous military career included service as an Air Force pilot, strategic program manager, and instructor, work that was driven by adventure, building teams, and a passion for translating complex technical systems to future leaders. I am transitioning from these roles to bridge defense and academia, advancing emerging sensing technologies for scientific research and airspace security. 
+
 At Colorado State University, I earned a PhD in Geosciences, focusing on distributed acoustic sensing and non-earthquake seismology. Fieldwork and experimental instrumentation research during my doctoral program was conducted with Los Alamos National Laboratory. My dissertation is entitled <i> Seismoacoustic Monitoring of Natural and Anthropogenic Sources in the Ice, Ocean, And Atmosphere</i>. <br><br>"
 
           imageWidth: 160
