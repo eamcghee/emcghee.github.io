@@ -1,5 +1,5 @@
-baseURL: "https://jdmillstein.github.io/" 
-title: Joanna Millstein
+baseURL: "https://emcghee.github.io/" 
+title: Elisa McGhee
 theme: PaperMod
 
 enableInlineShortcodes: true
@@ -14,16 +14,16 @@ menu:
         - name: Research
           url: research/
           weight: 1
-        - name: Travels
-          url: travels/
+        - name: Aviation
+          url: aviation/
           weight: 2
-        - name: CryoCloud
-          url: "https://cryointhecloud.com/"
+        - name: Media
+          url: "https://www.seismosoc.org/news/surface-draped-fiber-captured-planes-flight-details-at-nevada-airfield/"
           weight: 3
 
 params:
-    description: "Earth, risk, resilience"
-    #author: Joanna Millstein
+    description: "Bridging defense, academia & technology"
+    #author: Elisa McGhee
     # googleAnalyticsID: "G-XXXXX"
     DateFormat: "January 2006"
     defaultTheme: light
@@ -37,7 +37,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["research","travels","CryoCloud"]
+    MainSections: ["Research","Aviation","Media"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -48,30 +48,28 @@ params:
     math: true
     profileMode:
           enabled: true
-          title: Joanna D. Millstein
-          subtitle: "I am a Senior Earth Scientist at <a href='https://www.earthfinance.com/' target='_blank' rel='noopener noreferrer'>Earth Finance</a>, developing models and tooling to accelerate an economic transition to a sustainable future. I am interested in the relationship between physical and financial risk and mechanisms to support adaptation and project finance. Previously, I was a Postdoctoral Fellow in Geophysics at the Colorado School of Mines, worked with startups and foundations on their strategy, and received my PhD in Geophysics from the Massachusetts Institute of Technology, as a member of the MIT-WHOI Joint Program in Oceanography and Engineering. My dissertation is entitled <i>The Flow and Fracture of Antarctic Ice Shelves</i>. <br><br>
-          I am a climate geophysicist working at the intersection of remote sensing, physics, and data-driven modeling to understand the deformation of the ground beneath our feet and extreme climate scenarios. I'm interested in advancing solutions for climate adaptation and resilience through rigorously tested science and creative collaborations."
-          imageUrl: "headshot.png"
+          title: Elisa A. McGhee
+          subtitle: "I am a researcher who experiments with ground-based instruments to detect signals in the atmosphere, ocean, and icy environments. My previous military career included service as an Air Force pilot, strategic program manager, and instructor, work that was driven by adventure, building teams, and a passion for translating complex technical systems to future leaders. I am transitioning from these roles to bridge defense and academia, advancing emerging sensing technologies for scientific research and airspace security. 
+At Colorado State University, I earned a PhD in Geosciences, focusing on distributed acoustic sensing and non-earthquake seismology. Fieldwork and experimental instrumentation research during my doctoral program was conducted with Los Alamos National Laboratory. My dissertation is entitled <i> Seismoacoustic Monitoring of Natural and Anthropogenic Sources in the Ice, Ocean, And Atmosphere</i>. <br><br>"
+
           imageWidth: 160
           imageHeight: 160
           buttons:
             - name: Research
               url: research/
-            - name: Travels
-              url: travels/
-            - name: CryoCloud
-              url: "https://cryointhecloud.com/"
+            - name: Aviation
+              url: aviation/
+            - name: Media
+              url: "https://www.seismosoc.org/news/surface-draped-fiber-captured-planes-flight-details-at-nevada-airfield/"
     socialIcons:
-        - name: CV
-          url: millstein_cv.pdf
         - name: Google Scholar
-          url: https://scholar.google.com/citations?user=NL6GZekAAAAJ&hl=en
+          url: https://scholar.google.com/citations?user=_vHCRDQAAAAJ&hl=en
         - name: GitHub
-          url: https://github.com/jdmillstein
+          url: https://github.com/eamcghee
         - name: Linkedin
-          url: https://www.linkedin.com/in/jdmillstein17/
+          url: linkedin.com/in/elisa-mcghee/
         - name: Substack
-          url: https://substack.com/@risingseas
+          url: https://substack.com/@eamcghee
 
 
     assets:
@@ -80,7 +78,7 @@ params:
         hiddenInList: false
         hiddenInSingle: true
     label:
-      text: "Joanna Millstein"
+      text: "Elisa McGhee"
       icon: favicon.ico
       iconHeight: 18
 
