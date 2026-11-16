@@ -3,20 +3,10 @@ title: "Research"
 description: "Preprints and articles"
 ---
 
-I study the deformation and fracture of glacier ice to understand the mechanisms governing future sea-level rise. My research spans scales from individual crevasses to continental ice sheets, using satellite radar, mechanical models, and statistical frameworks to reconcile observations of ice fracture and calving with theory.
+I study the detection of signals in the ice, ocean, and atmosphere using novel instrument deployment methods to improve passive monitoring of anthropogenic and natural signals to advance earth science research and the protection of our airspace. 
 
-More broadly, I am interested in fracture mechanics, remote sensing, time series decomposition, and stochastic models, and I'm increasingly focused on applying these quantitative tools to flood risk, early warning systems, and climate forecasting.
-
-I also work at the intersection of geophysical monitoring and climate adaptation. I co-founded CryoCloud, a NASA-funded cloud computing platform for cryosphere scientists, and joined Adaptora to develop fiber-optic subsurface monitoring to help coastal communities, infrastructure operators, and regulators track ground deformation, subsidence, and environmental change in real time.
+My research uses seismic, acoustic, and distributed acoustic sensing data with advanced signal processing methods to characterize ice-ocean coupling, and detection of objects in the atmosphere that are otherwise not observed with radar or satellites. With seismometers on a floating ice shelf, I’ve detected signals of ice front erosion (calving), and measured ocean swell-induced extensional stress. With distributed acoustic sensing and infrasound, we’ve detected a space capsule re-entry moving at hypersonic speeds through our atmosphere, and slow-moving aircraft maneuvering near our arrays.
 
 Below are some published papers and links to presentations:
 
-<p><span style="font-size: 1.em; font-weight: bold;">Rates of sea‐level rise are highly sensitive to ice viscosity parameters in model benchmarks.</span> <span style="font-size: 0.8em;">Martin, D. F., Kachuck, S. B., Trevers, M., Millstein, J. D., Cornford, S. L., & Minchew, B. M. (2026). AGU Advances, 7(2), e2025AV001946.</span></p>
-
-<p><span style="font-size: 1.em; font-weight: bold;">47 years of large Antarctic calving events: Insights from extreme value theory.</span> <span style="font-size: 0.8em;">MacKie, E. J., Millstein, J., & Serafin, K. A. (2024). Geophysical Research Letters, 51(23), e2024GL112235.</span></p>
-
-<p><span style="font-size: 1.em; font-weight: bold;">Multi-decadal collapse of East Antarctica's Conger–Glenzer Ice Shelf.</span> <span style="font-size: 0.8em;">Walker, C. C., Millstein, J. D., Miles, B. W., Cook, S., Fraser, A. D., Colliander, A., ... & Fricker, H. A. (2024). Nature Geoscience, 17(12), 1240–1248.</span></p>
-
-<p><span style="font-size: 1.em; font-weight: bold;">Stability of ice shelves and ice cliffs in a changing climate.</span> <span style="font-size: 0.8em;">Bassis, J. N., Crawford, A., Kachuck, S. B., Benn, D. I., Walker, C., Millstein, J., ... & Luckman, A. (2024). Annual Review of Earth and Planetary Sciences, 52(1), 221–247.</span></p>
-
-<p><span style="font-size: 1.em; font-weight: bold;">Ice viscosity is more sensitive to stress than commonly assumed.</span> <span style="font-size: 0.8em;">Millstein, J. D., Minchew, B. M., & Pegler, S. S. (2022). Communications Earth & Environment, 3(1), 57.</span></p>
+[to be added]
